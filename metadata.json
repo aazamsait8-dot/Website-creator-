@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Portal",
+  "description": "An elegant, interactive restaurant web portal featuring a gourmet digital menu, responsive ordering cart, local table reservation engine, and customer reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
